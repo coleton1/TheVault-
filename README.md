@@ -15,9 +15,15 @@ The Vault is a secure password management tool that allows you to store, encrypt
    ```bash
    git clone https://github.com/yourusername/the-vault.git
 
-2. **install dependences:**
+2. **Change Directorys**
+   ```bash
+   cd Vault
+
+3. **install dependences:**
    ```bash
    pip install -r requirements.txt
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ![Desktop Screenshot 2024 09 13 - 14 06 54 16](https://github.com/user-attachments/assets/da5493f4-a39c-44a3-bcc6-ee06ab183357)
