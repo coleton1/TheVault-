@@ -19,6 +19,10 @@ The Vault is a secure password management tool that allows you to store, encrypt
    ```bash
    pip install -r requirements.txt
 
+
+![Desktop Screenshot 2024 09 13 - 14 06 54 16](https://github.com/user-attachments/assets/da5493f4-a39c-44a3-bcc6-ee06ab183357)
+
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 How It Works
@@ -41,4 +45,5 @@ Key Functionalities
     Focus Navigation: The application supports seamless navigation between input fields using the up and down arrow keys.
     Password Management: Easily add, view, and delete credentials through a user-friendly interface.
     Password Strength Feedback: Receive immediate feedback on the strength of your passwords to enhance security.
+
 
